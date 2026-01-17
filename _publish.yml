@@ -1,0 +1,4 @@
+- source: project
+  quarto-pub:
+    - id: cc342a0d-d99e-40af-9bc6-208fd2897235
+      url: https://infuerno.quarto.pub/ludwig
